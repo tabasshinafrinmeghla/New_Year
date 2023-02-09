@@ -211,26 +211,29 @@ h2 {
     margin-top: 2%;
     float: left;
     width: 50%;
-    justify-content:space-between ; 
-    
+    justify-content: space-between;
+
 }
-.end{
+
+.end {
     margin-top: 20px;
-    margin-left: 300px ;
+    margin-left: 300px;
 }
 
 .Future2 {
     margin-top: 4%;
     float: left;
     width: 50%;
-    justify-content:space-between ; 
+    justify-content: space-between;
 }
-#email{
-    
+
+#email {
+
     margin-left: 20%;
     height: 30px;
     width: 250px;
 }
-#submit{
+
+#submit {
     margin-left: 10%;
 }
