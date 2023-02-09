@@ -1,0 +1,61 @@
+* {
+    margin: auto;
+    font-family: 'Gulzar', serif;
+    font-family: 'Hind', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.header {
+    background-image: url('../images/banner/banner3.png');
+
+}
+
+
+.banner {
+    height: 800px;
+    line-height: 50px;
+    margin-left: 700px;
+    margin-top: 0%;
+    text-align: center;
+}
+
+h1 {
+
+    color: rgb(233, 233, 250);
+    text-align: center;
+    vertical-align: middle;
+}
+
+p {
+    color: #f9f9f9;
+    margin-top: 100px;
+    margin-left: 15%;
+    margin-right: 5%;
+}
+
+button {
+    margin-top: 140px;
+    margin-left: 15%;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(247, 247, 250);
+    color: rgb(25, 38, 46);
+    text-decoration: none;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    transition: background-color 0.5s ease;
+}
+
+button:hover {
+    background-color: lightblue;
+}
+ul {
+    list-style-type:square;
+    
+}
